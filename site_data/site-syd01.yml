@@ -1,0 +1,27 @@
+region: "Australia and New Zealand"
+region_slug: "anz"
+
+sub_region: "Australia"
+sub_region_slug: "aus"
+
+site_name: "Sydney Office 01"
+site_slug: "syd01"
+status: "active"
+
+locations:
+  - floor: "03"
+    type: "MDF"
+    racks:
+      - name: "SYD01-03-MDF-R01"
+        u_height: 42
+        width: 19
+      - name: "SYD01-03-MDF-R02"
+        u_height: 42
+        width: 19
+
+  - floor: "03"
+    type: "IDF"
+    racks:
+      - name: "SYD01-03-IDF-R01"
+        u_height: 42
+        width: 19

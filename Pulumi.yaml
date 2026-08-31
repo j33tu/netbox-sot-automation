@@ -1,0 +1,3 @@
+name: netbox-sot
+runtime: python
+description: NetBox Source of Truth Infrastructure Automation
