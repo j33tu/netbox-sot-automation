@@ -7,3 +7,6 @@ python -m venv venv
 # 3. Upgrade core tools and install dependencies
 python -m pip install --upgrade pip setuptools wheel
 pip install -r requirements.txt
+
+
+# add me files 
